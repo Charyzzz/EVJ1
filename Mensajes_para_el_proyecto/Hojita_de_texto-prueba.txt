@@ -1,0 +1,5 @@
+Hola mundo. Texto prueba
+
+--------------------------------
+
+Usar "git add ." para añadir los cambios hechos, usar "git commit -m "<Mensaje>"" para añadir el mensaje de la actualización. Luego usar "git <push/pull> origin main" dependiendo.
